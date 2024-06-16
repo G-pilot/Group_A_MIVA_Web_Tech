@@ -1,1 +1,1 @@
-# Group_A_MIVA_Web_Tech
+# This is a WEB TECHNOLOGIES PROJECT for group A MIVA University.
