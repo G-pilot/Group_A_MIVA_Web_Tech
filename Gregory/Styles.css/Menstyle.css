@@ -13,7 +13,7 @@ body {
     align-items: center; /* Center items vertically */
   }
   header {
-    background-color:rgb(26, 24, 23);
+    background-color:rgb(52, 15, 95);
     color: #fff;
     display:flex;
     justify-content:space-around;
@@ -28,7 +28,7 @@ body {
   .image-container {
     width: 350px;;
     height: 250px;;
-    background-image: url(../Other_files/Galitano.png);
+    background-image: url(../Other_files/Galitano-removebg-preview.png);
     background-size: cover; /* Cover the entire div */
     background-position:center; /* Center the image */
     background-repeat:no-repeat; /* Do not repeat the image */
